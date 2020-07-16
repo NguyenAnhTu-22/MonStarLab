@@ -126,7 +126,7 @@ public class News implements INews {
 
 		int i = 1;
 		while (i > 0) {
-			System.out.println("----------------------");
+			System.out.println(" ");
 			ne.Menu();
 			System.out.println("Nhap lua chon");
 			sc = new Scanner(System.in);
